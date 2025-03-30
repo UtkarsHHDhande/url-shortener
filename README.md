@@ -24,7 +24,7 @@ A big thanks to **[Piyush Garg](https://github.com/piyush-eon)** for creating th
 ### 1️⃣ Clone the Project
 
 ```sh
-git clone https://github.com/your-username/url-shortener.git
+git clone https://github.com/UtkarsHHDhande/url-shortener.git
 cd url-shortener
 ```
 
