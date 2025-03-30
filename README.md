@@ -6,18 +6,27 @@ This is a **modern URL Shortener** built using **React JS**, **Supabase**, **Tai
 
 A big thanks to **[Piyush Garg](https://github.com/piyush-eon)** for creating the tutorial and sharing valuable insights! 🙌
 
+## 🌟 Features
+
+- **Intuitive Interface**: Easily shorten links and manage your collection.
+- **Custom Short URLs**: Create personalized short URLs for branding purposes.
+- **Link Management**: Users can view, edit, and delete their shortened links.
+- **User Authentication**: Secure access with user authentication.
+- **Analytics Dashboard**: Track the performance of shortened URLs, including click statistics and device information.
+- **QR Code Generation**: Generate random QR codes for each shortened URL for easy sharing. 📱
+- **Responsive Design**: Enjoy a seamless experience across all devices. 💻📱
+
+## 📊 Usage
+
+- Shorten your long URLs by entering them into the input field and clicking the "Shorten!" button.
+- Manage your shortened links and view analytics on each link's performance.
+- Share your links easily with generated QR codes!
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS, Shadcn UI
 - **Backend:** Supabase (PostgreSQL, Authentication)
 - **Hosting:** Vercel / Netlify (Frontend), Supabase (Backend)
-
-## ✨ Key Features
-
-- 🔗 Shorten long URLs instantly
-- 📊 View link analytics (clicks, usage trends)
-- 🔒 Secure authentication with Supabase
-- 🚀 Fast & responsive UI powered by Tailwind CSS
 
 ## 🚀 Getting Started
 
@@ -70,3 +79,4 @@ Have ideas for improvements? Feel free to open an issue or submit a pull request
 This project is licensed under the **MIT License**.
 
 Happy coding! 🎉
+
